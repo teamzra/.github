@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/teamzra/.github/main/teamzra-icon.svg" alt="TeamZRA Logo" width="120" height="120">
-</p>
-
-<h1 align="center">TeamZRA</h1>
-
-<p align="center">
-  <strong>Building Tomorrow's Solutions Today</strong>
+  <img src="https://raw.githubusercontent.com/teamzra/.github/main/teamzra-banner.svg" alt="TeamZRA Banner" width="800">
 </p>
 
 <p align="center">

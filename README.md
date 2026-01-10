@@ -1,29 +1,29 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/teamzra/.github/main/teamzra-icon.svg" alt="TeamZRA Logo" width="120" height="120">
-</p>
-
-<h1 align="center">TeamZRA</h1>
-
-<p align="center">
-  <strong>Building Tomorrow's Solutions Today</strong>
+  <img src="https://raw.githubusercontent.com/teamzra/.github/main/teamzra-banner.svg" alt="TeamZRA Banner" width="800">
 </p>
 
 <p align="center">
   <a href="https://github.com/teamzra">
     <img src="https://img.shields.io/badge/GitHub-TeamZRA-1E293B?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <img src="https://img.shields.io/badge/Next.js-Framework-000000?style=for-the-badge&logo=next.js" alt="Next.js">
   <img src="https://img.shields.io/badge/AI-Powered-6366F1?style=for-the-badge&logo=openai" alt="AI">
-  <img src="https://img.shields.io/badge/TypeScript-Language-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-10B981?style=for-the-badge&logo=opensourceinitiative" alt="Open Source">
 </p>
 
 ---
 
 ## About Us
 
-**TeamZRA** is an innovative software development team specializing in AI-powered applications, web development, and startup validation tools. Founded by three passionate developers — **Zeshan**, **Rehman**, and **Aliza** — we transform bold ideas into scalable digital products.
+**TeamZRA** is an innovative software development team specializing in **web development**, **mobile app development**, and **AI-powered applications**. Founded by three passionate developers — **Zeshan**, **Rehman**, and **Aliza** — we transform bold ideas into scalable digital products.
 
-From intelligent automation to full-stack solutions, TeamZRA delivers cutting-edge technology that drives business growth and user engagement.
+From responsive web applications to native mobile apps for iOS and Android, TeamZRA delivers cutting-edge technology that drives business growth and user engagement.
+
+### Our Services
+
+- **Web Development** — Modern, responsive websites and web applications
+- **Mobile App Development** — Native and cross-platform apps for iOS & Android
+- **AI-Powered Solutions** — Intelligent automation and machine learning integrations
+- **Startup Tools** — Custom solutions for entrepreneurs and startups
 
 ---
 
@@ -77,31 +77,18 @@ From intelligent automation to full-stack solutions, TeamZRA delivers cutting-ed
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,postgres,vercel,git" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,flutter,dart,nodejs,postgres,vercel,git" alt="Tech Stack">
 </p>
 
 | Category | Technologies |
 |----------|-------------|
-| **Frontend** | Next.js, React, TypeScript, Tailwind CSS |
-| **Backend** | Node.js, Next.js API Routes |
-| **Database** | PostgreSQL (Neon), MongoDB |
+| **Web Frontend** | Next.js, React, TypeScript, Tailwind CSS |
+| **Mobile** | Flutter, Dart, React Native |
+| **Backend** | Node.js, Next.js API Routes, Express |
+| **Database** | PostgreSQL (Neon), MongoDB, Firebase |
 | **AI/ML** | OpenRouter, OpenAI, LangChain |
-| **Cloud** | Vercel, AWS, Cloudflare |
-| **Tools** | Git, GitHub, VS Code, Figma |
-
----
-
-## Projects
-
-### Idea Validator
-> Brutally honest AI-powered startup idea validation tool
-
-Get real feedback on your startup ideas with competitor analysis, market evaluation, and actionable insights.
-
-- AI-powered multi-agent evaluation system
-- Real competitor data from web search
-- Weighted scoring algorithm
-- Pivot suggestions for weak ideas
+| **Cloud** | Vercel, AWS, Cloudflare, Google Cloud |
+| **Tools** | Git, GitHub, VS Code, Figma, Android Studio, Xcode |
 
 ---
 
@@ -135,3 +122,5 @@ Get real feedback on your startup ideas with competitor analysis, market evaluat
 <p align="center">
   <sub>Built with passion by <strong>TeamZRA</strong></sub>
 </p>
+
+
