@@ -99,20 +99,6 @@ From responsive web applications to native mobile apps for iOS and Android, Team
 
 ---
 
-## Projects
-
-### Idea Validator
-> Brutally honest AI-powered startup idea validation tool
-
-Get real feedback on your startup ideas with competitor analysis, market evaluation, and actionable insights.
-
-- AI-powered multi-agent evaluation system
-- Real competitor data from web search
-- Weighted scoring algorithm
-- Pivot suggestions for weak ideas
-
----
-
 ## Our Values
 
 | Value | Description |
@@ -143,7 +129,6 @@ Get real feedback on your startup ideas with competitor analysis, market evaluat
 <p align="center">
   <sub>Built with passion by <strong>TeamZRA</strong></sub>
 </p>
-## Hi there 👋
 
 <!--
 
