@@ -12,9 +12,8 @@
   <a href="https://github.com/teamzra">
     <img src="https://img.shields.io/badge/GitHub-TeamZRA-1E293B?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <img src="https://img.shields.io/badge/Next.js-Framework-000000?style=for-the-badge&logo=next.js" alt="Next.js">
   <img src="https://img.shields.io/badge/AI-Powered-6366F1?style=for-the-badge&logo=openai" alt="AI">
-  <img src="https://img.shields.io/badge/TypeScript-Language-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-10B981?style=for-the-badge&logo=opensourceinitiative" alt="Open Source">
 </p>
 
 ---
