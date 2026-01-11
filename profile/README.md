@@ -49,13 +49,13 @@ From responsive web applications to native mobile apps for iOS and Android, Team
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Rehman078">
+      <a href="https://github.com/rehmanstackdev">
         <img src="https://github.com/Rehman078.png" width="100px;" alt="Rehman"/>
         <br />
         <sub><b>Rehman</b></sub>
       </a>
       <br />
-      <a href="https://github.com/Rehman078">
+      <a href="https://github.com/rehmanstackdev">
         <img src="https://img.shields.io/badge/-Rehman078-181717?style=flat-square&logo=github" alt="GitHub">
       </a>
     </td>
