@@ -49,8 +49,8 @@ From responsive web applications to native mobile apps for iOS and Android, Team
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Rehman078">
-        <img src="https://github.com/Rehman078.png" width="100px;" alt="Rehman"/>
+      <a href="https://github.com/rehmannaveeddev">
+        <img src="https://github.com/rehmannaveeddev.png" width="100px;" alt="Rehman"/>
         <br />
         <sub><b>Rehman</b></sub>
       </a>
