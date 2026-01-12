@@ -116,7 +116,7 @@ From responsive web applications to native mobile apps for iOS and Android, Team
     <img src="https://img.shields.io/badge/Zeshan-zeshanwebnest-6366F1?style=for-the-badge&logo=github" alt="Zeshan">
   </a>
   <a href="https://github.com/Rehman078">
-    <img src="https://img.shields.io/badge/Rehman-Rehman078-8B5CF6?style=for-the-badge&logo=github" alt="Rehman">
+    <img src="https://img.shields.io/badge/Rehman-rehmanstackdev-8B5CF6?style=for-the-badge&logo=github" alt="Rehman">
   </a>
   <a href="https://github.com/stackmasteraliza">
     <img src="https://img.shields.io/badge/Aliza-stackmasteraliza-10B981?style=for-the-badge&logo=github" alt="Aliza">
